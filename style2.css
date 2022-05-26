@@ -1,0 +1,69 @@
+
+.nav1 {
+    height : 50px;
+    width : 300px;
+    background-color: rgba(112, 132, 200, 0.5);
+    margin : 10px;
+    border : 2px solid #000030;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: left;
+    padding : 7px;
+}
+.nav2 {
+    height : 50px;
+    width : 300px;
+    background-color: rgba(112, 170, 128, 0.7);
+    margin : 10px;
+    border : 2px solid #000030;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: left;
+    padding : 7px;
+}
+.nav3 {
+    height : 50px;
+    width : 300px;
+    background-color: rgba(172, 116, 164, 0.7);
+    margin : 10px;
+    border : 2px solid #000030;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: left;
+    padding : 7px;
+}
+.nav4 {
+    height : 50px;
+    width : 300px;
+    background-color: rgba(136, 116, 160, 0.7);
+    margin : 10px;
+    border : 2px solid #000030;
+    color : white;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: left;
+    padding : 7px;
+}
+a {
+    color : white;
+    font-size: 27px;
+}
+.a {
+    font-size: 20px;
+}
+.nav4 :hover {
+    margin: 10px 30px 10px 10px;
+
+}
+.nav1 :hover {
+    margin: 10px 30px 10px 10px;
+
+}
+.nav2 :hover {
+    margin: 10px 30px 10px 10px;
+
+}
+.nav3 :hover {
+    margin: 10px 30px 10px 10px;
+
+}
